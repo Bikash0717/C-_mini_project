@@ -1,1 +1,3 @@
-# C-_mini_project
+# C++ mini projects
+
+Project1: Simple login form 
